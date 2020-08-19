@@ -11,4 +11,6 @@ Nur Resolusi
      1. Laravel
      2. Bootstrap
      3. Code Igniter 
+
+- Setelah WEB saya coba belajar android
   
