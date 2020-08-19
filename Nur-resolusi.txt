@@ -1,0 +1,14 @@
+Nur Resolusi
+- Komitmen untuk belajar web programming terlebih dahulu, dan hal hal yang terkait adalah
+  a. HTML
+  b. CSS
+  c. Javascript
+  d. PHP
+  e. Git
+  f. OOP
+  g. MVC
+  h. Framework
+     1. Laravel
+     2. Bootstrap
+     3. Code Igniter 
+  
